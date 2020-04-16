@@ -1,5 +1,5 @@
 def new_hash
-
+harh = {}
 end
 
 def actor
